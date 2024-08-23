@@ -58,6 +58,7 @@ Nations with fewer medals should focus on developing sports talent from a grassr
 
 ## Conclusion
 The 2024 Olympics showcase a competitive environment where traditional powerhouses like the United States and China continue to dominate. However, there is also a noticeable rise in performance from other nations, indicating a broadening of global sports excellence. For countries aiming to improve their standings, strategic investments in sports development, training, and infrastructure will be key.
+
 <img width="881" alt="olympics screenshoot" src="https://github.com/user-attachments/assets/31ca1b48-643f-4314-827d-9449957528d5">
 
 <img width="878" alt="olympics Screenshot " src="https://github.com/user-attachments/assets/a2950b50-ef29-45b4-aae7-5eddfff780f9">
